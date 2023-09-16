@@ -1,0 +1,5 @@
+{
+    "github.branchProtection": false,
+    "explorer.excludeGitIgnore": false,
+    "liveServer.settings.port": 5501
+}
