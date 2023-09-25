@@ -39,7 +39,7 @@
     --normal-font-size: 1rem;
     --small-font-size: 2.2rem;
     --smaller-font-size: 0.813rem;
-    --tiny-font-size: 20px;
+    --tiny-font-size: 16px;
 
     /* Fonr weight */
     --font-normal: 300;
@@ -525,6 +525,7 @@ button {
 }
 
 .projects h1 {
+    text-transform: lowercase;
     font-size: var(--big-font-size);
     margin: 0;
     letter-spacing: 1rem;
